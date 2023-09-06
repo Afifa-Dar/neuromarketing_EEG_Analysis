@@ -1,0 +1,11 @@
+handled data >
+like dislike threshold found with std 
+for each sample each channel (list)
+then take mode of list mean  for each channel
+sample1_ch1,sample2_ch1,... > take mode and save it as ch2 threshold
+
+handled data_3 >
+seaprate deal like/ dislike threshold
+interquartile range found of like samples and dislike samples
+parse data through it , data not lie in this replace with (if less then min , replace iwth min ; if grater then max , replace with max)
+
